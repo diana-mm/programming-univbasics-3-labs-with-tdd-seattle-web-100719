@@ -1,3 +1,3 @@
 first_number = 1
-second_variable = 3
+second_number = 3
 
