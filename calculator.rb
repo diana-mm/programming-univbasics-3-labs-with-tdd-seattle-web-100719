@@ -1,3 +1,3 @@
-first_variable = 1
-second_variable = 3
+first_variable = "1"
+second_variable = "3"
 
