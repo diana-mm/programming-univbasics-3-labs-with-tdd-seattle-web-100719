@@ -1,5 +1,3 @@
-def first_variable
-  push "1"
-end
-second_variable = Integer
+first_variable = 1
+second_variable = 3
 
